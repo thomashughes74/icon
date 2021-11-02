@@ -1,2 +1,2 @@
 # icon
-icon project final version
+icon project re-submitted for final grade 
