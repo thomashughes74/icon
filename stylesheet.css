@@ -37,18 +37,30 @@ img {
 .container {;
     max-width: 1100px;
     text-align: left;
-    margin: 0 auto;
+    margin: 1 auto;
+    padding-left: 8px;
 }
 .photo {
     align-content: center;
     max-width: 100%;
     margin: 0 auto;
+    padding-left: 1px;
+    padding-right: 1px;
 }
 
 .caption {
     font-style: italic;
+    padding-left: 8px;
+}
+.sources {
+    text-align: left;
+    margin: 0 auto;
+    padding-left: 8px;
 }
 
+.icon {
+    padding-left: 8px;
+}
 }
 
 /*********************************************************************
@@ -68,7 +80,7 @@ img {
 }
 
 .container
-{ max-width: 1100px;
+{ max-width: 650px;
     
     
 }
@@ -104,5 +116,10 @@ img {
     max-height: 0 auto;
 
 }
-
+.container {
+    max-width: 650px;
+}
+p {
+    padding-left: 6px;
+}
 }
