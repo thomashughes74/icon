@@ -39,6 +39,7 @@ img {
     text-align: left;
     margin: 1 auto;
     padding-left: 8px;
+    padding-right: 2px;
 }
 .photo {
     align-content: center;
@@ -118,8 +119,12 @@ img {
 }
 .container {
     max-width: 650px;
+    align-content: center;
+    margin: auto;
+
+
 }
-p {
-    padding-left: 6px;
+.sources {
+    margin: auto;
 }
 }
